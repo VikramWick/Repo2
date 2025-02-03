@@ -15,9 +15,4 @@
 01-04-25 16:00:15.4822855 : Netskope Service is in Running state
 01-04-25 16:00:15.4852764 : Checking McAfee Agent Installation / Service Status
 01-04-25 16:00:15.4862735 : McAfee Service is in Running state
-01-04-25 16:00:15.6308620 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_09_15.log Removing old logs [30 days old].
-01-04-25 16:00:15.6419527 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_09_59.log Removing old logs [30 days old].
-01-04-25 16:00:15.6439467 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_14_31.log Removing old logs [30 days old].
-01-04-25 16:00:15.6469385 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_14_52.log Removing old logs [30 days old].
-01-04-25 16:00:15.6489333 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_15_48.log Removing old logs [30 days old].
-01-04-25 16:00:15.6510188 : Script execution is completed.
+
