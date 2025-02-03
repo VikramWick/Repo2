@@ -1,0 +1,23 @@
+01-04-25 16:00:13.0394051 : Script Started
+01-04-25 16:00:13.0614684 : < NO Network Access > to Corporate network
+01-04-25 16:00:13.0667869 : Checking Snow Installation / Service Status
+01-04-25 16:00:13.0755814 : Snow installation is found
+01-04-25 16:00:13.0885465 : Snow service is running
+01-04-25 16:00:13.0905809 : Trying to initiate sending snow logs
+01-04-25 16:00:15.4662078 : Checking SCCM Agent Installation / Service Status
+01-04-25 16:00:15.4682024 : SCCM installation is found
+01-04-25 16:00:15.4692896 : SCCM Service is in Running state
+01-04-25 16:00:15.4722821 : Checking Antivirus Agent Installation / Service Status
+01-04-25 16:00:15.4742766 : Antivirus Service is in Running state
+01-04-25 16:00:15.4762712 : Checking DLP Agent Installation / Service Status
+01-04-25 16:00:15.4782660 : DLP Service is in Running state
+01-04-25 16:00:15.4802613 : Checking Netskope Agent Installation / Service Status
+01-04-25 16:00:15.4822855 : Netskope Service is in Running state
+01-04-25 16:00:15.4852764 : Checking McAfee Agent Installation / Service Status
+01-04-25 16:00:15.4862735 : McAfee Service is in Running state
+01-04-25 16:00:15.6308620 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_09_15.log Removing old logs [30 days old].
+01-04-25 16:00:15.6419527 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_09_59.log Removing old logs [30 days old].
+01-04-25 16:00:15.6439467 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_14_31.log Removing old logs [30 days old].
+01-04-25 16:00:15.6469385 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_14_52.log Removing old logs [30 days old].
+01-04-25 16:00:15.6489333 : C:\Mphasis\WKSCHE03TRNG057.12_05_24_15_48.log Removing old logs [30 days old].
+01-04-25 16:00:15.6510188 : Script execution is completed.
